@@ -3,8 +3,7 @@ import TodoList from "./ToDoList.jsx"
 function App() {
 
   return (
-    <>
-    </>
+    <TodoList/>
   )
 }
 
